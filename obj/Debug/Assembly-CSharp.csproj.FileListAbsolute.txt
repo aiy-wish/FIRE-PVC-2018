@@ -166,3 +166,4 @@ C:\Users\c_ayu\OneDrive\Desktop\VR Project\myStuff\Locomotion\Temp\bin\Debug\Uni
 C:\Users\c_ayu\OneDrive\Desktop\VR Project\myStuff\Locomotion\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\c_ayu\OneDrive\Desktop\VR Project\myStuff\Locomotion\obj\Debug\Assembly-CSharp.dll
 C:\Users\c_ayu\OneDrive\Desktop\VR Project\myStuff\Locomotion\obj\Debug\Assembly-CSharp.pdb
+C:\Users\c_ayu\OneDrive\Desktop\VR Project\myStuff\Locomotion\Temp\bin\Debug\Valve.Newtonsoft.Json.dll

@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class characterController : MonoBehaviour {
+public class characterController : MonoBehaviour
+{
 
     public float velocity = 10.0F;
 
